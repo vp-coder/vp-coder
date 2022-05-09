@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vp-coder&label=Profile%20views&color=0e75b6&style=flat" alt="vp-coder" /> </p>
 
+<p align="left"> <a href="https://twitter.com/vidushi_it" target="blank"><img src="https://img.shields.io/twitter/follow/vidushi_it?logo=twitter&style=for-the-badge" alt="vidushi_it" /></a> </p>
+
 - 🌱 I’m currently learning **Nodejs ,MongoDB**
 
 - 📫 How to reach me **vidushipandey2001@gmail.com**
@@ -12,11 +14,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vidushi_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vidushi_it" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vidushi-pandey-4a47871b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidushi-pandey-4a47871b1/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucajzqumxmaenc4kuyjx2ata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucajzqumxmaenc4kuyjx2ata" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/decodeit_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/decodeit_23" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/vidushipandey2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vidushipandey2001/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vidushipandey2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vidushipandey2001/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vidushi-pandey-4a47871b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidushi-pandey-4a47871b1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucajzqumxmaenc4kuyjx2ata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucajzqumxmaenc4kuyjx2ata" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/decodeit_23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="decodeit_23" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vidushipandey2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vidushipandey2001" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vidushipandey2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vidushipandey2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vp-coder&show_icons=true&locale=en&layout=compact" alt="vp-coder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vp-coder&show_icons=true&locale=en" alt="vp-coder" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vp-coder&" alt="vp-coder" /></p>
