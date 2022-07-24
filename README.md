@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vidushipandey2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GF6nQbhj0IcbYUKbYL7hs_r-PlMaYobr/view](https://drive.google.com/file/d/1GF6nQbhj0IcbYUKbYL7hs_r-PlMaYobr/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15AVaM5mtojjrLsXr_Gz00Ljjae3KsSO-/view?usp=drivesdk](https://drive.google.com/file/d/1GF6nQbhj0IcbYUKbYL7hs_r-PlMaYobr/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
