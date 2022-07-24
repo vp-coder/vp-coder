@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/vidushi_it" target="blank"><img src="https://img.shields.io/twitter/follow/vidushi_it?logo=twitter&style=for-the-badge" alt="vidushi_it" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs ,MongoDB**
+- 🌱 I’m **2023 batch** undergraduate engineering student
+
+- 🌱 I’m majoring in **Information Technology**
 
 - 📫 How to reach me **vidushipandey2001@gmail.com**
 
